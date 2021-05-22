@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AngryKidd
+- 👋 Hi, I’m @Wyatt
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning nodejs\c++\code analysis
 - 💞️ I’m looking to collaborate on opensource project
